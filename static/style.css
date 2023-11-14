@@ -70,3 +70,8 @@ input{
     height: 30px;
     cursor: pointer;
 }
+
+
+span{
+    font-size: 16px;
+}
